@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopily</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="bought">Bought</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="category_image">Category Image</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Books</item>
+        <item>Electronics</item>
+        <item>Clothes</item>
+    </string-array>
+</resources>
